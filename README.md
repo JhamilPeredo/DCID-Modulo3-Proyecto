@@ -1,5 +1,6 @@
 **La parte de notificaciones todavia ya esta funcionando** 
 Solo tienen que instalarse el mailpit
+y ejecutar en una terminal el comando mailip
 
 # EntradasYa — Manual para ejecutar el sistema
 
