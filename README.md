@@ -1,4 +1,5 @@
-**La parte de notificaciones todavia no esta funcionando** 
+**La parte de notificaciones todavia ya esta funcionando** 
+Solo tienen que instalarse el mailpit
 
 # EntradasYa — Manual para ejecutar el sistema
 
